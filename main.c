@@ -1,4 +1,5 @@
-#include "consense.c"
+#include "phylip.h"
+#include "cons.h"
 
 
 int main(int argc, Char *argv[])
