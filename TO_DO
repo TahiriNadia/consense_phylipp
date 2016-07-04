@@ -1,1 +1,8 @@
+TO DO
 
+Integrate tne consense C program to program in C++
+
+@params: 
+char * treesNewick [] : list of newick trees (on the C++ is vector of string maybe it's need to convert on char **)
+int trees_in : trees_in is number of tree
+int tip_count : tip_count is number of species
